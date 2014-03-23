@@ -1,0 +1,3 @@
+Based on the sample inputs given, a Time Report excel sheet is also present in the folder.
+AVL Tree seems to be the Fastest in terms of performance based on the large sample inputs provided.
+Splay Tree comes out to be the second fastest and Skip List turns out to be the least in terms of performance.
